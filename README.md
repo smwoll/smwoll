@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi, I'm Sky.
+## I want the web to be a place of truth and beauty. If you're working to help improve people's lives, I want to figure out how web tech can help.
+
+I've worked on enterprise Drupal sites, and campaign WordPress sites from large to small. Check out [my portfolio](https://skyland.dev/).
+
+🔭 I’m currently working on modern, scalable theming for WordPress. 
+💬 Ask me about websites to tell your story, advance progress, and do something good. 
+📫 How to reach me: skylandwoll@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I was almost named Skywalker.
 
 <!--
 **smwoll/smwoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

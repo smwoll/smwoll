@@ -9,6 +9,12 @@ I've worked on enterprise Drupal sites, and campaign WordPress sites from large 
 😄 Pronouns: He/Him   
 ⚡ Fun fact: I was almost named Skywalker   
 
+### Here’s a few things I’ve worked on recently:
+* [VoterCare](https://votercare.org/)
+* [Dr. Al Gross for US Senate](https://dralgrossak.com/)
+* [Fireside Campaigns](https://firesidecampaigns.com/)
+* [Our American Dreams PAC ](https://ouramericandreamspac.com/)
+
 <!--
 **smwoll/smwoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

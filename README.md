@@ -1,5 +1,5 @@
 # Hi, I'm Sky.
-## I want the web to be a place of truth and beauty. If you're working to help improve people's lives, I want to figure out how web tech can help.
+## I want the web to be a place of truth and beauty. If you're working to help improve people's lives, I want to help.
 
 I've worked on enterprise Drupal sites, and campaign WordPress sites from large to small. Check out [my portfolio](https://skyland.dev/).
 

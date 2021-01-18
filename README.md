@@ -1,5 +1,4 @@
 # Hi, I'm Sky.
-## I want the web to be a place of truth and beauty.
 
 I've worked on enterprise Drupal sites, and campaign WordPress sites from large to small. Check out [my portfolio](https://skyland.dev/).
 

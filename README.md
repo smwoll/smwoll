@@ -3,7 +3,7 @@
 I've worked on enterprise Drupal sites, and campaign WordPress sites from large to small. Check out [my portfolio](https://skyland.dev/).
 
 🔭 I’m currently working on modern, scalable theming for WordPress.  
-💬 Ask me about websites to tell your story, advance progress, and do something good.  
+💬 Ask me about the web can help you tell your story, advance progress, and do something good.  
 📫 How to reach me: skylandwoll@gmail.com  
 😄 Pronouns: He/Him   
 ⚡ Fun fact: I was almost named Skywalker   

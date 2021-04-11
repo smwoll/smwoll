@@ -1,20 +1,12 @@
 # Hi, I'm Sky.
 
-I've worked on enterprise Drupal sites, and campaign WordPress sites from large to small. Check out [my portfolio](https://skyland.dev/).
+I'm a web developer with experience primarily in public health and political spaces. Check out [my portfolio](https://skyland.dev/).
 
 🔭 I’m currently working on modern, scalable theming for WordPress.  
 💬 Ask me about the web can help you tell your story, advance progress, and do something good.  
 📫 How to reach me: skylandwoll@gmail.com  
 😄 Pronouns: He/Him   
 ⚡ Fun fact: I was almost named Skywalker   
-
-### Here’s a few things I’ve worked on:
-* [VoterCare](https://votercare.org/)
-* [Dr. Al Gross for US Senate](https://dralgrossak.com/)
-* [Fireside Campaigns](https://firesidecampaigns.com/)
-* [Our American Dreams PAC ](https://ouramericandreamspac.com/)
-* [USAID Advancing Nutrition](https://www.advancingnutrition.org/)
-* [Child Health Task Force](https://www.childhealthtaskforce.org/)
 
 <!--
 **smwoll/smwoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

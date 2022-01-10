@@ -2,11 +2,9 @@
 
 I'm a web developer with experience primarily in public health and political spaces. Check out [my portfolio](https://skyland.dev/).
 
-🔭 I’m currently engineering modern, beautiful WordPress websites with [@WideEye](https://twitter.com/WideEyeCo).  
-💬 Ask me about the web can help you tell your story, advance progress, and do something good.  
+🔭 I’m currently engineering modern, beautiful WordPress websites with [@WideEye](https://twitter.com/WideEyeCo). 
 📫 How to reach me: skylandwoll@gmail.com  
 😄 Pronouns: He/Him   
-⚡ Fun fact: I was almost named Skywalker   
 
 <!--
 **smwoll/smwoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

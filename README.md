@@ -2,8 +2,7 @@
 
 I'm a web developer with experience primarily in public health and political spaces. Check out [my portfolio](https://skyland.dev/).
 
-🔭 I’m currently engineering modern, beautiful WordPress websites with [@WideEye](https://twitter.com/WideEyeCo). 
-📫 How to reach me: skylandwoll@gmail.com  
+🔭 I’m currently engineering modern, beautiful WordPress websites with [@WideEye](https://twitter.com/WideEyeCo).
 😄 Pronouns: He/Him   
 
 <!--
